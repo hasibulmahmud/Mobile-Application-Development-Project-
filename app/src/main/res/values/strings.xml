@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Our App</string>
+    <string name="navigation_drawer_open">নেভিগেশন খুলুন</string>
+    <string name="navigation_drawer_close">নেভিগেশন বন্ধ করুন</string>
+</resources>
